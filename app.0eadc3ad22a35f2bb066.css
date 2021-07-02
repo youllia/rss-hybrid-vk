@@ -112,12 +112,9 @@ p {
   width: 70px;
 }
 
-[data-code='ControlLeft'] {
-  width: 60px;
-}
-
+[data-code='ControlLeft'],
 [data-code='ControlRight'] {
-  width: 60px;
+  width: 70px;
 }
 
 [data-code='Backspace'] {
@@ -139,7 +136,7 @@ p {
 
 [data-code='MetaLeft'],
 [data-code='MetaRight'] {
-  width: 86px;
+  width: 90px;
 }
 
 .active {
